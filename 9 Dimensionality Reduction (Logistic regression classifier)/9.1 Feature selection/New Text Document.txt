@@ -1,0 +1,4 @@
+Backward Elimination
+Forward Selection
+Bidirectional Elimination
+Score Comparison
