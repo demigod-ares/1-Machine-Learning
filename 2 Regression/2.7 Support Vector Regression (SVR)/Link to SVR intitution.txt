@@ -1,0 +1,6 @@
+We use Radial Basis Function when our data is non linear in the given space.
+So we take the data in a higher dimention using the RBF kernel where the data is linearly seprable.
+
+All explanation at the link below...
+
+https://www.ics.uci.edu/~welling/teaching/KernelsICS273B/
